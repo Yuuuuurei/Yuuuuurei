@@ -60,7 +60,7 @@ When I'm not coding, you can find me:
 
 ### 🛠️ Currently Working On:
 - 🖼️ Building a local gallery app with Flask and Vue.js for Stable Diffusion-generated images.  
-- 🧪 Experimenting with SEIS modeling for MPOX research.  
+- 🧪 Experimenting with SEIR modeling for MPOX research.  
 - 🧠 Learning about graph theory applications in Spotify Blend.
 
 ---
