@@ -2,7 +2,7 @@
 Welcome to my little corner of the internet! I'm a **Mathematics Student** 👨‍🎓 and a passionate **Tech Enthusiast** who loves solving problems, building cool stuff, and diving into the depths of **Data Science**, **AI**, and **Web Development**.  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="480" height="270" alt="Coding gif">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="480" height="360" alt="Coding gif">
 </div>
 
 When I'm not coding, you can find me:
@@ -79,3 +79,6 @@ When I'm not coding, you can find me:
 If you've scrolled this far, here's a random joke:  
 **Why do programmers prefer dark mode?**  
 Because light attracts bugs! 🐞
+<div align="center">
+  <img src="https://media.giphy.com/media/aQwvKKi4Lv3t63nZl9/giphy.gif" width="480" height="461" alt="Funny Raccoon Meme">
+</div>
