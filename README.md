@@ -42,7 +42,7 @@ When I'm not coding, you can find me:
 
 ---
 
-## 🎯 Goals for 2024:
+## 🎯 Goals for 2025:
 - 🚀 **Build Mods for Games**: I dream of adding my creative touch to the gaming world by creating unique and fun mods. Expect magic swords, cool characters, and game-breaking chaos! 🎮✨  
 - 📊 **Dive Deeper into Data Science**: Transforming raw data into stories and insights is where I find my groove.  
 - 🤖 **Explore AI and Machine Learning**: From mastering neural networks to crafting innovative machine learning models, I want to explore the uncharted territories of artificial intelligence and beyond.  
