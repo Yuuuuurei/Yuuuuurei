@@ -26,11 +26,12 @@ When I'm not coding, you can find me:
 ---
 
 ## 🌟 About Me:
-- 🖥️ **Favorite Coding Language:** Python 🐍 (though JavaScript is cool too)
-- 📊 **Current Obsession:** Graph Theory and Spotify Blend algorithms  
-- 🌌 **Fun Fact:** I've used AI to turn random thoughts into art. One of them is now my phone wallpaper.  
-- 🎵 **Vibe Playlist:** A mix of lo-fi, metal, and 80s synthwave 🎸  
-- 🎯 **Life Goal:** Build something so impactful it makes someone say, “Wow, this changed my life.”
+- 🖥️ **Favorite Coding Language:** Python 🐍 (though JavaScript is cool too)  
+- 🎵 **Music Tastes:** Emo, shoegaze, lofi, pop, and metalcore 🎧  
+- 📚 **Bookworm Life:** Enjoys Kafka, Nietzsche, Camus, Musashi, Dostoevsky, and more  
+- 🌎 **Linguist at Heart:** Learning Japanese, German, and French  
+- 🎨 **Creative Soul:** I love making poems and experimenting with AI art  
+- 🎯 **Big Dream:** To make something impactful in the coding world  
 
 ---
 
@@ -42,15 +43,18 @@ When I'm not coding, you can find me:
 ---
 
 ## 🎯 Goals for 2024:
-- 🚀 Contribute to open-source projects and help beginners in their coding journey.  
-- 📖 Dive deeper into AI ethics and reinforcement learning.  
-- 🌟 Build an app that leverages AI to assist with mental health monitoring.  
-- 💡 Create visually stunning data visualizations using Plotly and Matplotlib.
+- 🚀 **Build Mods for Games**: I dream of adding my creative touch to the gaming world by creating unique and fun mods. Expect magic swords, cool characters, and game-breaking chaos! 🎮✨  
+- 📊 **Dive Deeper into Data Science**: Transforming raw data into stories and insights is where I find my groove.  
+- 🤖 **Explore AI and Machine Learning**: From mastering neural networks to crafting innovative machine learning models, I want to explore the uncharted territories of artificial intelligence and beyond.  
+- 🕵️‍♂️ **Learn Ethical Hacking**: I want to understand cybersecurity and use my skills to make systems safer while solving intriguing puzzles.  
+- 🌌 **Understand Math and Physics More**: I aim to deepen my understanding of the mathematical and physical laws that govern our universe.  
+- 💡 **Launch Something Game-Changing**: My ultimate goal is to leave a lasting impact on the tech community.  
 
 ---
 
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+### ✍️ Life-Changing Quote:
+> “He who has a why to live can bear almost any how.”  
+> — Friedrich Nietzsche
 
 ---
 
