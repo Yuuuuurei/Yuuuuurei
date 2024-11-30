@@ -14,7 +14,7 @@ When I'm not coding, you can find me:
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ailowkeytired) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahri-desrian-049433247/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Yuuuuurei__) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ailowkeytired) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahri-desrian-049433247/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Yuuuuurei__) [![Spotify](https://img.shields.io/badge/Spotify-%1DB954.svg?logo=spotify&logoColor=white)](https://open.spotify.com/user/9b97m32mwg6iqueo5uo6hn0yl?si=3ef2a9034fc4448a) [![Kaggle](https://img.shields.io/badge/Kaggle-%23056C85.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/yuuuuurei)
 
 ---
 
