@@ -1,8 +1,12 @@
 ## 👋 Hello World! I'm Fahri Desrian! 
 Welcome to my little corner of the internet! I'm a **Mathematics Student** 👨‍🎓 and a passionate **Tech Enthusiast** who loves solving problems, building cool stuff, and diving into the depths of **Data Science**, **AI**, and **Web Development**.  
 
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="480" height="270" alt="Coding gif">
+</div>
+
 When I'm not coding, you can find me:
-- 📖 Exploring complex math models (SEIS modeling, anyone?)
+- 📖 Exploring complex math models (SEIR modeling, anyone?)
 - 🎮 Playing retro games or losing hours in RPGs
 - 🎨 Experimenting with Stable Diffusion for AI-generated art
 - ☕ Drinking unhealthy amounts of coffee to stay awake
