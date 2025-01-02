@@ -7,7 +7,7 @@ Welcome to my little corner of the internet! I'm a **Mathematics Student** 👨�
 
 When I'm not coding, you can find me:
 - 📖 Exploring complex math models (SEIR modeling, anyone?)
-- 🎮 Playing retro games or losing hours in RPGs
+- 🎮 Playing games or losing hours in RPGs
 - 🎨 Experimenting with Stable Diffusion for AI-generated art
 - ☕ Drinking unhealthy amounts of coffee to stay awake
 
